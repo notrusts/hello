@@ -1,0 +1,14 @@
+#Hotel Management System
+This is a hotel management system that allows hotel staff to manage room bookings, guest information, and other related tasks.
+
+##Features
+Room Management: Add, update, and remove rooms from the system. Each room has information such as room number, room type, and availability status.
+
+Guest Management: Add, update, and remove guest information. Each guest has details such as name, contact information, and booking history.
+
+Booking Management: Create and manage room bookings for guests. Each booking includes the guest's information, room details, check-in, and check-out dates.
+
+Reports: Generate reports such as room occupancy, guest history, and revenue analysis.
+
+##Technologies Used
+Python: The core programming language used for developing the system.
